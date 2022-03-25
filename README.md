@@ -8,6 +8,7 @@ himself by receiving the lowest negative HP possible from the attacker agent. Fu
 have a choice from a number of bullets from his gun and the optimal moves will cost a certain maximum
 negative HP (chosen from randomly assigned values within the range of minimum and maximum negative HP).
 Here, are the following things you need to do using Alpha-Beta Pruning algorithm:
+
 ❖ Sample Input 1:
 1. Enter your student id:
 17301106
@@ -42,7 +43,7 @@ values
 
 
 
- Sample Input 2:
+❖ Sample Input 2:
 1. Enter your student id:
 20201003
 2. Minimum and Maximum value for the range of negative HP:
